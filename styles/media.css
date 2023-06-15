@@ -213,7 +213,7 @@
   }
 
   .header-content {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(1, 1fr) !important; 
     padding-bottom: 6rem;
   }
 
@@ -221,7 +221,7 @@
     display: none;
   }
   .left-header .image {
-    width: 90% !important;
+    width: 70% !important;
     margin: 0 auto !important;
   }
 
